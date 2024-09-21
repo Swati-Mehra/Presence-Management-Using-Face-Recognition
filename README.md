@@ -1,7 +1,6 @@
 **Smart Presence Management System**
 
-The Smart Presence Management System utilizes advanced facial recognition technology to automate and streamline attendance tracking for organizations and educational institutions. Developed with a robust backend (like Spring Boot) and a dynamic frontend (like React), the system includes:
-
+The Smart Presence Management System utilizes advanced facial recognition technology to automate and streamline attendance tracking for organizations and educational institutions. 
 **Facial Recognition**: Effortlessly capture and verify attendance with high accuracy.
 **User Management**: Comprehensive admin interface for managing user profiles and permissions.
 **Real-Time Analytics**: Instant notifications and detailed reports on attendance trends.
